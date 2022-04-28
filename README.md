@@ -2,11 +2,18 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> -->
 
-### I'm a pasisonate software developer currently working on [Thoughtworks](https://www.thoughtworks.com/).
+### I'm a pasisonate software developer currently working an [Thoughtworks](https://www.thoughtworks.com/).
 
 <!-- ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
 
-### Languages & Tools 🛠
+### Languages & Tools 
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoledbianchin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoledbianchin&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<p></p>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
