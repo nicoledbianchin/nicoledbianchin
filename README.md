@@ -10,24 +10,25 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style==for-the-badge&logo=docker)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=FF3E00)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
-![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;
+![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=for-the-badge&logo=circleci&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=for-the-badge&logo=jetbrains)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=for-the-badge&logo=apple)&nbsp;
 
 ## My stats on Github
 
