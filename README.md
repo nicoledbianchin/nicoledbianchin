@@ -1,32 +1,20 @@
-<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=GuillaumeFalourd&countColorcountColor)
+## Hello there!
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> -->
+### I'm a software developer currently working at [Thoughtworks](https://www.thoughtworks.com/).
 
-### I'm a pasisonate software developer currently working an [Thoughtworks](https://www.thoughtworks.com/).
+## Languages & Tools 
 
-<!-- ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-### Languages & Tools 
-
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoledbianchin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoledbianchin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<p></p>
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-
-<!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style==for-the-badge&logo=docker)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
-![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp; -->
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -41,43 +29,20 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
-<!-- ### Analytics ⚙️
-  
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd" />
-  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
-</p>  
-  
-<p align="left">
-<a href="https://github.com/GuillaumeFalourd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&langs_count=8&hide=HCL"/>
-</a>
-</p>
+## My stats on Github
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" /> -->
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoledbianchin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoledbianchin&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<p></p>
 
-<!-- <p align="left">
-<a href="https://github.com/GuillaumeFalourd">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd"/>
-  <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/4-productive-time.svg"/>
-</a>
-</p> -->
-
-<!-- <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
-
-<!-- <img width="100%" src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg" /> -->
-<!-- ![Metrics](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/metrics.plugin.achievements.svg) -->
-
-### Let's connect?
+## Let's connect?
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rita-nicole-bianchin-694179166/"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/nicolebianchin"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="mailto:nicoledbianchin@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rita-nicole-bianchin-694179166/"><img src="https://img.shields.io/badge/-nicolebianchin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/nicolebianchin"><img src="https://img.shields.io/badge/-@nicolebianchin-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="mailto:nicoledbianchin@gmail.com"><img src="https://img.shields.io/badge/-nicoledbianchin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
