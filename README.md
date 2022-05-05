@@ -54,8 +54,8 @@
 ## Let's connect?
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rita-nicole-bianchin-694179166/"><img src="https://img.shields.io/badge/-nicolebianchin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/nicolebianchin"><img src="https://img.shields.io/badge/-@nicolebianchin-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="mailto:nicoledbianchin@gmail.com"><img src="https://img.shields.io/badge/-nicoledbianchin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rita-nicole-bianchin-694179166/"><img src="https://img.shields.io/badge/nicolebianchin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/nicolebianchin"><img src="https://img.shields.io/badge/nicolebianchin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:nicoledbianchin@gmail.com"><img src="https://img.shields.io/badge/nicoledbianchin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
