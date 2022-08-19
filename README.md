@@ -18,6 +18,7 @@
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=FF3E00)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-20232A?style=for-the-badge)&nbsp;
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![JUnit](https://img.shields.io/badge/Junit-000000?style=for-the-badge&logoColor=white)&nbsp;
