@@ -1,6 +1,6 @@
 ## Hello there!
 
-### I'm a software developer currently working at [Thoughtworks](https://www.thoughtworks.com/).
+### I'm a software developer currently working at [Neon](https://neon.com.br/).
 
 <br/>
 
