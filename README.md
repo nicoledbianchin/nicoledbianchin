@@ -58,14 +58,19 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 
 <br/>
+
 ## My stats on Github
 
  <div>
-  <a href="https://github.com/nicoledbianchin">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicoledbianchin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicoledbianchin&layout=compact&langs_count=7&theme=dracula"/>
+ <p align="center">
+    <a href="https://github.com/nicoledbianchin">
+      <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicoledbianchin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/nicoledbianchin">
+      <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicoledbianchin&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+    </p>
 </div>
-<p></p>
 <br/>
 
 ## Let's connect?
