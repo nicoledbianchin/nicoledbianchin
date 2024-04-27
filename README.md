@@ -20,6 +20,7 @@
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=FF3E00)&nbsp;
 ![JUnit](https://img.shields.io/badge/Junit-000000?style=for-the-badge&logoColor=white)&nbsp;
 ![NUnit](https://img.shields.io/badge/Nunit-000000?style=for-the-badge&logoColor=green&logo=c-sharp&logoColor=white)&nbsp;
+![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&logo=pytest&logoColor=ffdd54)&nbsp;
 
 #### Environments & deployment
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
