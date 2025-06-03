@@ -1,6 +1,6 @@
 ## Hello there!
 
-### I'm a software developer currently working at [Neon](https://neon.com.br/).
+### I'm a software developer currently working at [Cecil](https://cecil.earth/).
 
 <br/>
 
