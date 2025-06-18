@@ -7,7 +7,6 @@
 ## Languages & Tools 
 ### Some of the languages and tools that I've worked with:
 <br/>
-
 #### Languages
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
