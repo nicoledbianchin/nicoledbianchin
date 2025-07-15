@@ -59,26 +59,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 
-<br/>
 
-## My stats on Github
-
- <div>
- <p align="center">
-    <a href="https://github.com/nicoledbianchin">
-      <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicoledbianchin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/nicoledbianchin">
-      <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicoledbianchin&layout=compact&langs_count=7&theme=dracula"/>
-    </a>
-    </p>
-</div>
-<br/>
-
-## Let's connect?
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rita-nicole-bianchin-694179166/"><img src="https://img.shields.io/badge/nicolebianchin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nicoledbianchin@gmail.com"><img src="https://img.shields.io/badge/nicoledbianchin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
